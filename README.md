@@ -1,1 +1,2 @@
 # Bookmark-social-website
+*A social web application that will allow users to share images they find on the internet. It has the following elements: 1. An authentication system for users to register, log in, edit there profile and change or reset there password.Still the user can register using various platform like google, facebook,twitter. It has a follow system to allow users to follow each other on the website. Functionality like Displaying shared image and implement a bookmarklet for users to share image in any website and many more benefits.**
